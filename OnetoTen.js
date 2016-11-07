@@ -1,5 +1,4 @@
 // Variables of the first part
-
 var hero = "Awkawrd guy";
 var gender = "Female";
 var age = 26;
