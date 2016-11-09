@@ -1,8 +1,8 @@
 // Variables of the first part
-var hero = "Snezzing girl";
+var hero = "Time Stopper";
 var gender = "Female";
 var age = 26;
-var weapon = "runny nose";
+var weapon = "Love";
 var pronoun;
 var xp;
 
@@ -10,7 +10,7 @@ var xp;
 
 // if gender ==female -> pronoun = "her"
 
-if (gender ==="Female"){
+if (gender === "Female"){
 	pronoun = "her";
 } else if (gender === "Male"){
 	pronoun = "his"
@@ -42,3 +42,7 @@ var animal = "Pitbull";
 function animalHouse(p1,p2){
 	var count = p1+p2;
 }
+
+// function for the sentence
+
+console.log()
