@@ -14,14 +14,20 @@
   // "[Jake] is our lovable hero, who [has seen a few battles] with his trusty [sword]."
 
 
-var hero = "Snezzing girl";
+
+// Variables of the first part
+var hero = "Time Stopper";
 var gender = "Female";
 var age = 26;
-var weapon = "runny nose";
+var weapon = "Love";
 var pronoun;
 var xp;
 
-if (gender ==="Female"){
+// conditional to set pronoun
+
+// if gender ==female -> pronoun = "her"
+
+if (gender === "Female"){
 	pronoun = "her";
 } else if (gender === "Male"){
 	pronoun = "his"
